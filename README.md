@@ -1,3 +1,6 @@
 ### Hello there 🖖🏽
 
-I'm a "developer on my own", always creating things that i like just beacause is it cool 👾
+PHP Web Developer, Linux User and Gadget creator.
+
+
+gopher://sdf.org/1/users/yanz/
